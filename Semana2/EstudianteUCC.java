@@ -1,4 +1,4 @@
-publicS class EstudianteUCC {
+public class EstudianteUCC {
 
     //Atributos
     private int id;
