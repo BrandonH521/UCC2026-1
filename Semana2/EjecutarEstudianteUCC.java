@@ -6,3 +6,4 @@ public class EjecutarEstudianteUCC {
         EstudianteUCC objEstudianteUCC = new EstudianteUCC(9674800,1193303490, "Brandon", "Herrera", 24, 1.76);
         
 }
+}
